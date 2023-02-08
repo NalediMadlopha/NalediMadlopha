@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Naledi Madlopha, a Software Engineer by profession.
+
+- 🔭 I’m currently working on AWS EC2
+- 🌱 I’m currently learning Cyber Security
+- 💬 Ask me about Software Engineering 
+- 📫 How to reach me: Email, LinkedIn or Twitter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I live to code and I code to live
+
 <!--
 **NalediMadlopha/NalediMadlopha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
