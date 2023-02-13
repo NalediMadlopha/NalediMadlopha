@@ -3,7 +3,7 @@
 I am Naledi Madlopha a Software Engineer by profession, I write articles and create videos about architectures of large-scale Internet Services, Scalability, Distributed Systems, Databases, Cloud Computing and Software Engineering in general. Most importantly, I WRITE CODE. 😁
 
 - 🔭 I’m currently working on improving my writing skills
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning about the security of large-scale systems
 - 💬 Ask me about Software Engineering 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live to code and I code to live
