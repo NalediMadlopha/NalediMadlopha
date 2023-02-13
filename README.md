@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Naledi Madlopha, a Software Engineer by profession.
+My name is Naledi Madlopha, a Software Engineer - Java/Kotlin by profession.
 
-- 🔭 I’m currently working on AWS EC2
+- 🔭 I’m currently working on a private project (Java/Kotlin stack)
 - 🌱 I’m currently learning Cyber Security
 - 💬 Ask me about Software Engineering 
 - 😄 Pronouns: He/Him
