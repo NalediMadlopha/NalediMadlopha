@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
 
-My name is Naledi Madlopha, a Software Engineer - Java/Kotlin by profession.
+I am Naledi Madlopha a Software Engineer by profession, I write articles and create videos about architectures of large-scale Internet Services, Scalability, Distributed Systems, Databases, Cloud Computing and Software Engineering in general. Most importantly, I WRITE CODE. 😁
 
 - 🔭 I’m currently working on a private project (Java/Kotlin stack)
 - 🌱 I’m currently learning Cyber Security
