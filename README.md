@@ -4,7 +4,7 @@ I am Naledi Madlopha a Software Engineer by profession, I write articles and cre
 
 - 🔭 I’m currently working on improving my writing skills
 - 🌱 I’m currently learning about the security of large-scale systems
-- 💬 Ask me about Software Engineering 
+- 💬 Ask me about Software Engineering, Distributed Systems and large-scale system architectures 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live to code and I code to live
 
