@@ -1,12 +1,4 @@
-### Hello World! 👋
-
-I am Naledi Madlopha, a Software Engineer with a passion for technology and crafting qaulity products.
-
-- 🔭 I’m currently working on building my own company; Ditoro Systems (Ptd) Ltd, an African technology company focusing on Solution Architecture, Cloud Computing, Software Development and Cybersecurity..
-- 🌱 I’m currently learning how to write
-- 💬 Ask me about Software Engineering, Distributed Systems and large-scale system architectures 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I live to code and I code to live
+I am an architect of ideas, a weaver of vision and a builder of possibilities.
 
 <!--
 **NalediMadlopha/NalediMadlopha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
